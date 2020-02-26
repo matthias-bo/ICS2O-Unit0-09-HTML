@@ -1,0 +1,12 @@
+p {
+    color: blue;
+}
+img{
+    border-style:solid;
+    border-color:purple;
+}
+table, th, td {
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+    padding: 25px 25px 25px 25px;
+}
